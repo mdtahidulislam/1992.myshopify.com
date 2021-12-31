@@ -1,0 +1,21 @@
+{
+  "current": {
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "enable_announcement": true,
+          "announcement": "Welcome to 1992 Online Shop! Let’s start to shopping NOW !!!",
+          "logo": "shopify:\/\/shop_images\/logo.png",
+          "main_linklist": "main-menu",
+          "brand_link": "",
+          "brand_name": "Denim",
+          "brand_text": "Trends of Season"
+        }
+      }
+    },
+    "content_for_index": [
+
+    ]
+  }
+}
